@@ -1,7 +1,7 @@
 {
   "name": "lit-search",
   "description": "Literature search, screening, and full-text PDF retrieval (open access first, then your own library proxy) for Claude Code.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "chaeniverse"
   },
