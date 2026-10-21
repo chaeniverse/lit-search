@@ -1,0 +1,18 @@
+{
+  "name": "lit-search",
+  "description": "Literature search, full-text PDF retrieval via open access or your library proxy, and methods-first single-paper review for Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "chaeniverse"
+  },
+  "homepage": "https://github.com/chaeniverse/lit-search",
+  "license": "MIT",
+  "keywords": [
+    "literature",
+    "papers",
+    "pubmed",
+    "arxiv",
+    "review",
+    "skill"
+  ]
+}

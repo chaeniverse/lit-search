@@ -1,0 +1,9 @@
+{
+  "pdf_root": "~/Papers",
+  "library_proxy": {
+    "url_template": "https://ezproxy.example.edu/login?url={url}",
+    "pubmed_otool": ""
+  },
+  "notion_parent_page_id": "",
+  "json_export_dir": ""
+}
