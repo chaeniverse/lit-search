@@ -36,7 +36,7 @@ ln -s "$PWD/lit-search/skills/lit-search" ~/.claude/skills/lit-search
 
 | 키 | 뜻 |
 |---|---|
-| `pdf_root` | 원문 PDF 저장 루트. 실행마다 `YYYY-MM-DD <주제>` 하위 폴더를 만든다 |
+| `pdf_root` | 원문 PDF 저장 루트. 실행마다 `YYYY-MM-DD <주제>` 하위 폴더를 만들고, 키워드를 묶음으로 나눠 찾았으면 묶음마다 하위 폴더를 만든다 |
 | `library_proxy.url_template` | 도서관 프록시 URL, `{url}` 자리에 출판사 URL. 비우면 무료 경로만 쓴다 |
 | `library_proxy.pubmed_otool` | PubMed "Find it" 버튼용 기관 코드(선택) |
 | `json_export_dir` | 검색 결과 JSON 을 쓸 폴더(선택). 아래 "웹 뷰어" 참고 |
