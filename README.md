@@ -61,7 +61,7 @@ ln -s "$PWD/lit-search/skills/lit-search" ~/.claude/skills/lit-search
 
 | 저장소 | 공개 | 내용 |
 |---|---|---|
-| `petct-lit-search` | 비공개 | 이 스킬을 특정 영상 연구(PET-CT) 문헌 스캔에 맞춘 변형. 갈래·관문·Tier 규칙을 더하고 결과를 JSON 으로 써서 비공개 Vercel 뷰어에 올린다 |
+| `petct-paper-scrap` | 비공개 | 이 스킬을 특정 영상 연구(PET-CT) 주간 문헌 스캔에 맞춘 변형. 갈래·관문·Tier 규칙을 더하고, 결과를 JSON 으로 써서 같은 저장소의 Vercel 뷰어(Next.js, 비밀번호 보호)로 본다 |
 
 ## 참고
 
