@@ -60,6 +60,10 @@ ln -s "$PWD/lit-search/skills/lit-search" ~/.claude/skills/lit-search
 | `petct-paper-scrap` | 비공개 | 이 스킬을 특정 영상 연구(PET-CT) 주간 문헌 스캔에 맞춘 변형. 갈래·관문·Tier 규칙을 더하고, 결과를 JSON 으로 써서 같은 저장소의 Vercel 뷰어(Next.js, 비밀번호 보호)로 본다 |
 | `paper-scrap` | 비공개 | 이 스킬을 저장소 주인의 연구 관심사(생성모델의 통계적 평가 등 3축)에 맞춘 주간 AI 논문 스캔 변형. arXiv·OpenReview·통계 저널을 1순위로 두고 소속·통계 연관성·응용 세 관문으로 거른 뒤, 결과를 JSON 으로 써서 같은 저장소의 Vercel 사이트로 본다 |
 
+## 기여
+
+이슈 → 브랜치 → PR 순서로 한다. 브랜치·커밋·PR 규칙은 [docs/git-workflow.md](docs/git-workflow.md).
+
 ## 라이선스
 
 MIT
