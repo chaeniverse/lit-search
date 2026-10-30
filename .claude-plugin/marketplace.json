@@ -1,0 +1,15 @@
+{
+  "name": "lit-search",
+  "owner": {
+    "name": "chaeniverse"
+  },
+  "plugins": [
+    {
+      "name": "lit-search",
+      "description": "Literature search, screening, and full-text PDF retrieval (open access first, then your own library proxy) for Claude Code.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/chaeniverse/lit-search"
+    }
+  ]
+}
