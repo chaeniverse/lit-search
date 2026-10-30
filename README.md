@@ -53,6 +53,11 @@ ln -s "$PWD/lit-search/skills/lit-search" ~/.claude/skills/lit-search
 뷰어 앱은 이 저장소에 없다 — JSON 형식만 정해 두고 앱은 각자 만든다.
 미발표 연구와 이어지는 메모가 들어가면 사이트를 비공개로 두거나 인증을 건다. 원문 PDF 는 올리지 않는다.
 
+## 자매 스킬
+
+[code-search](https://github.com/chaeniverse/code-search) 는 같은 흐름(포함 조건 한 줄 → 여러 경로 검색 → Tier A/B → 확보 → 정리)으로 논문과 방법의 공개 코드를 찾는다. GitHub·논문 공식 구현·Hugging Face·PyPI·CRAN 을 보고 공식 여부·유지보수·라이선스로 거른다.
+이 스킬로 찾은 논문 목록(노트·JSON)을 그대로 넘기면 논문마다 공식 구현을 찾는다. JSON 은 틀이 같아 한 뷰어에서 함께 읽을 수 있다(`kind: "code"` 로 구분).
+
 ## 파생 저장소
 
 | 저장소 | 공개 | 내용 |
